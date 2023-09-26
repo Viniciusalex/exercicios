@@ -2,13 +2,6 @@
 
 Este repositório contém uma coleção de exercícios de Java que desenvolvi durante meus estudos. Os exercícios estão organizados em pastas separadas por tópicos ou conceitos específicos da linguagem Java.
 
-## Estrutura do Repositório
-
-- `exercicio1/`: Descrição e código-fonte do exercício 1.
-- `exercicio2/`: Descrição e código-fonte do exercício 2.
-- `exercicio3/`: Descrição e código-fonte do exercício 3.
-- ...
-
 Cada pasta de exercício contém um arquivo `README.md` separado com instruções específicas sobre o exercício, se aplicável.
 
 ## Tópicos de Interesse
