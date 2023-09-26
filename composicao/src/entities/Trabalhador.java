@@ -61,11 +61,11 @@ public class Trabalhador {
 		return contratos;
 	}
 	
-	private void adicionarContrato(HoraContrato contrato) {
+	public void adicionarContrato(HoraContrato contrato) {
 		contratos.add(contrato);
 	}
 	
-	private void removerContrato(HoraContrato contrato) {
+	public void removerContrato(HoraContrato contrato) {
 		contratos.remove(contrato);
 	}
 	
