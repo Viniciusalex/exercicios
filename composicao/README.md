@@ -29,8 +29,3 @@ Este arquivo contém o enum `NivelTrabalhador`, que define os níveis de trabalh
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver melhorias, correções de bugs ou novos recursos para adicionar, sinta-se à vontade para criar um pull request.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
